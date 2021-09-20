@@ -1,0 +1,17 @@
+:root {
+  --clr-icons: #929292;
+  --clr-text: #ffffff;
+  --clr-bg-dark: #242424;
+  --clr-bg-light: #3b3b3b;
+  --clr-accent: #ff7600;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%;
+}
